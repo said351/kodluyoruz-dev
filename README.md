@@ -1,0 +1,2 @@
+# kodluyoruz-dev
+ödevim
